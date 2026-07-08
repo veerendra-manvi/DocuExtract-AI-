@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+openai
+pymupdf
+pdfplumber
+pytesseract
+Pillow
+pydantic
+pydantic-settings
+python-dateutil
+python-multipart

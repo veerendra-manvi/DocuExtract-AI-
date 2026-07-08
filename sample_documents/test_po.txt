@@ -1,0 +1,20 @@
+PURCHASE ORDER
+
+PO Number: PO-2026-8899
+To: Global Supplies Inc.
+Address: 456 Industrial Blvd, Chicago IL
+From: DEF Manufacturing
+
+Date: August 10 2026
+
+Please supply the following items:
+1. Steel Pipes (2 inch)    50     $100.00     $5000.00
+2. Connectors              200    $5.00       $1000.00
+
+Subtotal: $6000.00
+Tax: $0.00
+Discount: $500.00
+Total: $5500.00
+Currency: USD
+
+Payment Terms: Net 30
